@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+}
+
+body{
+    padding: 10px 200px;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    position: relative;
+}
+
+header .slogan{
+    padding: 40px 20px;
+    width: 60%;
+}
+
+header .slogan .slogan-name{
+    font-weight: bold;
+    font-size: xxx-large;
+}
+
+header .slogan span{
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 14px;
+}
+
+header .logo{
+    width: 20%;
+    position: absolute;
+    right: 0;
+}
+
+header .logo img{
+    width: 60%;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+}
+
+h2{
+    padding: 20px 20px 20px 0px;
+    border-bottom: 1px solid #ddd;
+}
+
+.menu{
+    display: flex;
+    height: 40px;
+    border: 1px solid #ddd;
+    align-items: center;
+    border-radius: 5px;
+    /* padding: 0 20px; */
+    position: relative;
+    margin: 20px;
+    background-color: #ddd;
+}
+
+.menu .menu-main{
+    display: flex;
+    width: 60%;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #000;
+}
+
+.menu .menu-main a{
+    display: flex;
+    list-style: none;
+    /*padding-right: 2em; */
+    width: 110px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.menu .menu-main a:hover{
+    background-color: aliceblue;
+}
+
+.menu .menu-account{
+    display: flex;
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    right: 0;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.menu .menu-account a{
+    display: flex;
+    width: 110px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .menu-account:hover{
+    background-color: aliceblue;
+}
+
+.main{
+    min-height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+}
+
+.main .content{
+    width: 75%;
+    padding-right: 20px;
+    height: auto;
+    border-right: 1px solid #ddd;
+}
+
+.main .content .product{
+    display: grid;
+    grid-template: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 20px;
+}
+
+    .main .content .product .product-box{
+        width: 200px;
+        border: 2px solid #0094ff;
+    }
+
+    .main .content .product .product-name{
+
+    }
+
+    .main .content .product .product-price{
+        color: crimson;
+    }
+
+.main .menu-left {
+    width: 25%;
+    padding-left: 20px;
+    height: auto;
+}
+
+    .main .menu-left ul{
+        padding: 20px;
+        height: auto;
+    }
+
+    .main .menu-left ul li {
+        list-style: none;
+        height: 35px;
+    }
+
+footer{
+    text-align: center;
+    font-size: 10px;
+}

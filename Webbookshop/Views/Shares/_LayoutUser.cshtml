@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/CSS/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <header>
+        <div class="slogan">
+            <div class="slogan-name">BOOKSHOP ONLINE</div>
+            <span>Express - nguyenvanquymui2003@gmail.com</span>
+        </div>
+        <div class="logo">
+            <img src="~/Images/lotus-of-life.png" alt="logo">
+        </div>
+    </header>
+    <div class="menu">
+        <div class="menu-main">
+            <a href="~/QLSach/Index">Home</a>
+            <a href="#">Management</a>
+            <a href="#">Stalistics</a>
+        </div>
+        <div class="menu-account">
+            <a href="#">Accounts</a>
+        </div>
+    </div>
+    <div class="main">
+        <div class="content">
+            @RenderBody()
+        </div>
+        <div class="menu-left">
+            @Html.Action("MenuLeft", "ChuDe")
+        </div>
+    </div>
+    <footer>
+        <div class="copyright">Copyright &copy; 2024 Nguyễn Văn Quí Mùi - nguyenvanquymui2003@gmail.com</div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,11 @@
+﻿@using Webbookshop.Models
+@model List<ChuDe>
+
+<h2>CHỦ ĐỀ</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li><a href="@Url.Action("BookTheoChuDe", "QLSach", new { maCD = item.MaChuDe})">@item.TenChuDe</a></li>
+    }
+</ul>
+

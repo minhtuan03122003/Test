@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MVC\\Webbookshop 2\\Webbookshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|c:\\mvc\\webbookshop 2\\webbookshop\\webbookshop\\areas\\admin\\controllers\\qlchudeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\areas\\admin\\controllers\\qlchudeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\views\\chude\\menuleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\views\\chude\\menuleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\areas\\admin\\data\\chudeadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\areas\\admin\\data\\chudeadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\controllers\\chudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\controllers\\chudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\views\\shares\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\views\\shares\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\controllers\\qlsachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\controllers\\qlsachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\views\\qlsach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\views\\qlsach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|C:\\MVC\\Webbookshop 2\\Webbookshop\\webbookshop\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF3C084D-CDD2-47EC-8CA5-C296DBD466D3}|Webbookshop\\Webbookshop.csproj|solutionrelative:webbookshop\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChuDeAdminViewModel.cs",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Areas\\Admin\\Data\\ChuDeAdminViewModel.cs",
+              "RelativeDocumentMoniker": "Webbookshop\\Areas\\Admin\\Data\\ChuDeAdminViewModel.cs",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Areas\\Admin\\Data\\ChuDeAdminViewModel.cs",
+              "RelativeToolTip": "Webbookshop\\Areas\\Admin\\Data\\ChuDeAdminViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:52:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLChuDeAdminController.cs",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "RelativeDocumentMoniker": "Webbookshop\\Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "RelativeToolTip": "Webbookshop\\Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:51:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Webbookshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Webbookshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:14:43.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuLeft.cshtml",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Views\\ChuDe\\MenuLeft.cshtml",
+              "RelativeDocumentMoniker": "Webbookshop\\Views\\ChuDe\\MenuLeft.cshtml",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Views\\ChuDe\\MenuLeft.cshtml",
+              "RelativeToolTip": "Webbookshop\\Views\\ChuDe\\MenuLeft.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T03:18:35.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChuDeController.cs",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Controllers\\ChuDeController.cs",
+              "RelativeDocumentMoniker": "Webbookshop\\Controllers\\ChuDeController.cs",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Controllers\\ChuDeController.cs",
+              "RelativeToolTip": "Webbookshop\\Controllers\\ChuDeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:16:27.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\CSS\\style.css",
+              "RelativeDocumentMoniker": "Webbookshop\\CSS\\style.css",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\CSS\\style.css",
+              "RelativeToolTip": "Webbookshop\\CSS\\style.css",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAIMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-09T01:15:15.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Views\\QLSach\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webbookshop\\Views\\QLSach\\Index.cshtml",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Views\\QLSach\\Index.cshtml",
+              "RelativeToolTip": "Webbookshop\\Views\\QLSach\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T01:02:44.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLSachController.cs",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Controllers\\QLSachController.cs",
+              "RelativeDocumentMoniker": "Webbookshop\\Controllers\\QLSachController.cs",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Controllers\\QLSachController.cs",
+              "RelativeToolTip": "Webbookshop\\Controllers\\QLSachController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:01:59.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Views\\Shares\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "Webbookshop\\Views\\Shares\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\MVC\\Webbookshop 2\\Webbookshop\\Webbookshop\\Views\\Shares\\_LayoutUser.cshtml",
+              "RelativeToolTip": "Webbookshop\\Views\\Shares\\_LayoutUser.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T00:48:59.371Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

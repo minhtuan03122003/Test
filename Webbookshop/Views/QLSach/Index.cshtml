@@ -1,0 +1,19 @@
+﻿@using Webbookshop.Models
+@model List<Sach>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shares/_LayoutUser.cshtml";
+}
+
+<h2>DANH MỤC SÁCH</h2>
+<div class="product">
+    @foreach(var item in Model)
+    {
+        <div class="product-box">
+            <img src="@item.AnhBia" />
+            <div class="product-name">@item.TenSach</div>
+            <div class="product-price">@item.GiaBan</div>
+        </div>
+    }
+</div>
